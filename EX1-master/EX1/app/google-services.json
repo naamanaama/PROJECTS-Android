@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17460404695",
+    "firebase_url": "https://naamaproject-f4c75.firebaseio.com",
+    "project_id": "naamaproject-f4c75",
+    "storage_bucket": "naamaproject-f4c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17460404695:android:82e9487c175528fc",
+        "android_client_info": {
+          "package_name": "com.example.ex1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17460404695-hv6ce9imddga7sur8tmh94ivt5uv4koe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwwxObjSWZ7xg0Y_162tQsy1ST8zYfA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17460404695-hv6ce9imddga7sur8tmh94ivt5uv4koe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

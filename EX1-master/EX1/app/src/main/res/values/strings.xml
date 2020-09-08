@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EX1</string>
+    <string name="send">send</string>
+    <string name="enter">enter message:</string>
+    <string name="welcom">"Hello, new user!"</string>
+    <string name="fillName">"Please fill up your name:"</string>
+    <string name="enterName">"enter your name</string>
+    <string name="buttonThatsMyName">"This is my name"</string>
+    <string name="skip">"Skip"</string>
+    <string name="messageConfigu">"Message Details"</string>
+    <string name="sentFrom">"Sent from: %1$s"</string>
+    <string name="sentTime">"Send time: %1$s"</string>
+    <string name="permenentDelete">"PERMANENT DELETE"</string>
+    <string name="helloUser">"Hello %1$s!"</string>
+
+</resources>
